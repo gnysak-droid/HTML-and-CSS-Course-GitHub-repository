@@ -4,7 +4,8 @@ Welcome to my project repository for the **CSS and Bootstrap** course at AOLCC! 
 
 ---
 
-## 📚 Course Structure & Completed Projects
+
+## �📚 Course Structure & Completed Projects
 
 ### Module 1: CSS Fundamentals & Development Tools
 Focuses on essential developer environments, version control, and core CSS syntax.
